@@ -16,6 +16,18 @@
 
 [https://github.com/Darius0852/Progtramming-Foundations-in-C-PlusPlus](https://github.com/Darius0852/Progtramming-Foundations-in-C-PlusPlus)
 
+# **Classes**
+
+A class is a template definition of an object (function) in object orientated programming. It defined a set of properties and methods that are common to all objects.
+
+“Everything in C++ is associated with classes and objects, along with its attributes and methods. For example: in real life, a car is an **object.** The car has **attributes**, such as weight and color, and **methods**, such as drive and brake.”
+
+Attributes and methods are basically **variables** and **functions** that belongs to the class. These are often referred to as "class members".
+
+A class is a user-defined data type that we can use in our program, and it works as an object constructor, or a "blueprint" for creating objects.
+
+# **Inheritance**
+
 # **Polymorphism**
 
 ## What is it?
@@ -62,5 +74,7 @@ A virtual function is defined by keyword ‘virtual’, return type may be int, 
 A virtual function is a member function in a base class. We can redefine it in a derived class. It is part of run time polymorphism. The declaration of the virtual function must be in a base class by using the keyword virtual. A virtual function is not static.
 
 Virtual function helps tell compiler to perform dynamic/late binding.
+
+# 
 
 # **Compilation in C++**
